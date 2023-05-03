@@ -1,0 +1,15 @@
+.jumbotron {
+  background-image: url(/images/products/hogwarts.png);
+  background-repeat: none;
+  background-position: center;
+  background-size: cover;
+  min-height: 400px;
+  max-height: 1350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.jumbotron h1, .jumbotron h3 {
+  text-shadow: 3px 3px 3px black;
+}
